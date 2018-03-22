@@ -1,0 +1,22 @@
+{
+  "name": "@ya-wxapp-org/account",
+  "version": "0.0.1",
+  "description": "wx account",
+  "repository": {
+    "url": "fimars/@ya-wxapp-org/account",
+    "type": "git"
+  },
+  "main": "index.js",
+
+  "files": ["index.js"],
+  "scripts": {
+    "test": "echo 'no tests!'"
+  },
+  "author": "fimars <foru.fy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@ya-wxapp-org/sync": "~0.0.3",
+    "@ya-wxapp-org/pify": "~0.0.4"
+  },
+  "devDependencies": {}
+}
